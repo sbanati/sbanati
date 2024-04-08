@@ -29,8 +29,4 @@
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbanati&label=Profile%20views&color=0e75b6&style=flat" alt="sbanati" /> </p>
 
-🔭 "I'm immersed in building a full-stack MERN web app, leveraging React.js for the frontend, Node.js and Express.js for the backend, and MongoDB for database management."<br>
-👯Open to collaborating on web projects utilizing JavaScript, particularly interested in React.js and Node.js for frontend and backend development."<br>
-🌱 "Currently focused on advancing skills in React.js for dynamic UIs and exploring advanced Node.js and Express.js concepts for backend development."<br>
-💬 "Feel free to ask me about my journey into web development, experiences with the MERN stack, specific projects, industry trends, or problem-solving strategies."<br>
-⚡ "Avid problem solver in and out of coding; enjoy video games and experimenting with new recipes in my spare time!"
+

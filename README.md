@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/therealslvr" target="blank"><img src="https://img.shields.io/twitter/follow/therealslvr?logo=twitter&style=for-the-badge" alt="therealslvr" /></a> </p>
 
-- 🌱 My Tech Stack  [![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,mysql,nodejs,react,tailwind,git)](https://skillicons.dev)
+- 🌱 My Tech Stack  [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,sequelize,mongodb,react,tailwind,markdown,figma,git)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
